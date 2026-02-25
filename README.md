@@ -1,6 +1,6 @@
-# Linalg-in-C
+# NumC
 
-A custom numerical linear algebra library built in C that implements fundamental matrix operations and Gaussian elimination to solve Ordinary Least Squares (OLS) regression problems
+A custom library built in C for manual matrix manipulation and statistical modeling. 
 
 File Structure
 

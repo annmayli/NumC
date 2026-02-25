@@ -4,6 +4,7 @@ A custom numerical linear algebra library built in C that implements fundamental
 
 File Structure
 
+```text
 Project Directory/
 ├── src/                                # Implementation files (.c)
 │   ├── matrix.c                        # Memory management & basic arithmetic
@@ -20,3 +21,4 @@ Project Directory/
 │   └── test_math.c
 ├── Makefile                            # Build instructions
 └── README.md                           # documentation
+```
